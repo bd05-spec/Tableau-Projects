@@ -22,4 +22,4 @@ Open the listed Tableau workbook in Tableau Desktop or Tableau Public. Packaged 
 
 ## Interpretation notes
 
-Check the workbook?s field definitions, coverage period and source before comparing event counts. Counts alone do not account for flight volume or exposure.
+Check the workbook's field definitions, coverage period and source before comparing event counts. Counts alone do not account for flight volume or exposure.

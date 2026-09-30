@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This dashboard summarizes a lending portfolio through loan issuance, good/bad loan status, grade, term and geography. It helps explore how the included loans are distributed across the workbook?s dimensions.
+This dashboard summarizes a lending portfolio through loan issuance, good/bad loan status, grade, term and geography. It helps explore how the included loans are distributed across the workbook's dimensions.
 
 ## Problem and analysis
 

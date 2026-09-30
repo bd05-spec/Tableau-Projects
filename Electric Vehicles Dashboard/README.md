@@ -22,4 +22,4 @@ Open the listed Tableau workbook in Tableau Desktop or Tableau Public. Packaged 
 
 ## Interpretation notes
 
-Population counts depend on the dataset?s coverage and update date. CAFV eligibility and electric-range fields should be interpreted using the source definitions.
+Population counts depend on the dataset's coverage and update date. CAFV eligibility and electric-range fields should be interpreted using the source definitions.
